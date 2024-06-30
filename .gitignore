@@ -1,5 +1,4 @@
 .DS_Store
 http_cache.sqlite
 .idea/
-src/.env
 __pycache__/
